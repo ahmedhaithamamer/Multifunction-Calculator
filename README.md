@@ -39,7 +39,6 @@
 
 
 ## Temperature Conversion Mode:
-
 - Conversion Between Units:
   - Facilitates the conversion of temperature units between Celsius, Fahrenheit, and Kelvin.
 - User-Friendly Interface:
@@ -49,7 +48,13 @@
 ![Temp](https://github.com/user-attachments/assets/1811747c-7067-4efb-aac5-a210cca591c0)
 
 
+## Navigation Menu
+- The menu is located at the top-left corner of the calculator window under the "File" dropdown.
+- It offers a clean and straightforward way to switch between different modes of the calculator.
+- The menu also includes an "Exit" option, allowing users to close the application easily.
+> Screenshot for the Navigation Menu
 
+![Menu](https://github.com/user-attachments/assets/21564064-6bea-4568-ad7f-1f00cb7196cb)
 
 
 
