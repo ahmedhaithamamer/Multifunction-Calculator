@@ -32,7 +32,7 @@
 - Conversion Between Units:
   - Facilitates the conversion of temperature units between Celsius, Fahrenheit, and Kelvin.
 - User-Friendly Interface:
-  A simple dropdown or toggle selection for choosing the input and output temperature units.
+  - A simple dropdown or toggle selection for choosing the input and output temperature units.
 
 
 
