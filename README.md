@@ -4,10 +4,10 @@
 
 ## Basic Mode
 - Arithmetic Operations:
-Supports basic operations such as addition, subtraction, multiplication, and division.
+  Supports basic operations such as addition, subtraction, multiplication, and division.
 - User Interface:
-A simple and intuitive interface with buttons for digits (0-9) and arithmetic operations.
-Additional functionalities include a clear button to reset the current calculation and a backspace button to correct input mistakes.
+  - A simple and intuitive interface with buttons for digits (0-9) and arithmetic operations.
+  - Additional functionalities include a clear button to reset the current calculation and a backspace button to correct input mistakes.
 
 
 
