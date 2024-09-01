@@ -2,7 +2,7 @@
 - The calculator is a Windows Forms application developed in C++ using Visual Studio and the WinForms library from the .NET Framework.
 - This project is designed to provide users with a powerful and user-friendly tool capable of handling various mathematical operations across different modes.
 
-## Basic Mode
+## Basic Mode:
 - Arithmetic Operations:
   - Supports basic operations such as addition, subtraction, multiplication, and division.
 - User Interface:
@@ -13,7 +13,7 @@
 ![main](https://github.com/user-attachments/assets/772bc2e0-33a4-4847-b7e4-24d91ab17b14)
 
 
-## Scientific Mode
+## Scientific Mode:
 - Advanced Functions:
   - Supports more complex functions like trigonometric operations (sine, cosine, tangent), logarithmic functions, exponents, and square roots.
 - Number System Conversions:
@@ -27,7 +27,7 @@
 ![scientific](https://github.com/user-attachments/assets/d80adc50-167c-46e0-8cf7-ba59bd5db6b9)
 
 
-## Length Conversion Mode
+## Length Conversion Mode:
 - Metric System:
   - The calculator supports conversions between common metric units, such as millimeters (mm), centimeters (cm), meters (M), kilometers (Km), and more.
   - Sub-units like micrometers (μm) and nanometers (nm) are also included, catering to users who work with smaller scales.
