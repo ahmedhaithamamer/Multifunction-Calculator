@@ -20,7 +20,7 @@
   - Allows conversions between different number systems such as binary, octal, decimal, and hexadecimal.
 - Angle Modes:
   - Provides options for calculating angles in degrees or radians.
--Memory Functions:
+- Memory Functions:
   - Includes memory storage and retrieval functions, allowing users to store intermediate results.
 > Screenshot for the Scientific Mode
 
