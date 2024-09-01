@@ -8,6 +8,7 @@
 - User Interface:
   - A simple and intuitive interface with buttons for digits (0-9) and arithmetic operations.
   - Additional functionalities include a clear button to reset the current calculation and a backspace button to correct input mistakes.
+>
 ![main](https://github.com/user-attachments/assets/772bc2e0-33a4-4847-b7e4-24d91ab17b14)
 
 
