@@ -13,6 +13,20 @@
 ![main](https://github.com/user-attachments/assets/772bc2e0-33a4-4847-b7e4-24d91ab17b14)
 
 
+## Scientific Mode
+- Advanced Functions:
+  - Supports more complex functions like trigonometric operations (sine, cosine, tangent), logarithmic functions, exponents, and square roots.
+- Number System Conversions:
+  - Allows conversions between different number systems such as binary, octal, decimal, and hexadecimal.
+- Angle Modes:
+  - Provides options for calculating angles in degrees or radians.
+-Memory Functions:
+  - Includes memory storage and retrieval functions, allowing users to store intermediate results.
+> Screenshot for the Scientific Mode
+
+![scientific](https://github.com/user-attachments/assets/d80adc50-167c-46e0-8cf7-ba59bd5db6b9)
+
+
 
 
 
