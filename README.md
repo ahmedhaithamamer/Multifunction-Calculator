@@ -27,6 +27,14 @@
 ![scientific](https://github.com/user-attachments/assets/d80adc50-167c-46e0-8cf7-ba59bd5db6b9)
 
 
+##Temperature Conversion Mode:
+
+- Conversion Between Units:
+  - Facilitates the conversion of temperature units between Celsius, Fahrenheit, and Kelvin.
+- User-Friendly Interface:
+  A simple dropdown or toggle selection for choosing the input and output temperature units.
+
+
 
 
 
