@@ -1,0 +1,18 @@
+C:\Users\pc\source\repos\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Calculator3\Calculator3\x64\Debug\Calculator3.MyForm.resources
+C:\Users\pc\source\repos\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.GenerateResource.cache
+D:\programing\Calculator3\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.AssemblyReference.cache
+D:\programing\Calculator3\Calculator3\Calculator3\x64\Debug\Calculator3.MyForm.resources
+D:\programing\Calculator3\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.GenerateResource.cache
+D:\vs project\calc waleed\Calculator3\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.AssemblyReference.cache
+D:\vs project\calc waleed\Calculator3\Calculator3\Calculator3\x64\Debug\Calculator3.MyForm.resources
+D:\vs project\calc waleed\Calculator3\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.GenerateResource.cache
+D:\vs project\Last\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.AssemblyReference.cache
+D:\vs project\Last\Calculator3\Calculator3\x64\Debug\Calculator3.MyForm.resources
+D:\vs project\Last\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.GenerateResource.cache
+D:\Projects\Last\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.AssemblyReference.cache
+D:\Projects\Last\Calculator3\Calculator3\x64\Debug\Calculator3.MyForm.resources
+D:\Projects\Last\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.GenerateResource.cache
+D:\Projects\Programming project\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.AssemblyReference.cache
+D:\Projects\Programming project\Calculator3\Calculator3\x64\Debug\Calculator3.MyForm.resources
+D:\Projects\Programming project\Calculator3\Calculator3\x64\Debug\Calculator3.vcxproj.GenerateResource.cache
