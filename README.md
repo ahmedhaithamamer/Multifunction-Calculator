@@ -27,12 +27,26 @@
 ![scientific](https://github.com/user-attachments/assets/d80adc50-167c-46e0-8cf7-ba59bd5db6b9)
 
 
+## Length Conversion Mode
+- Metric System:
+  - The calculator supports conversions between common metric units, such as millimeters (mm), centimeters (cm), meters (M), kilometers (Km), and more.
+  - Sub-units like micrometers (μm) and nanometers (nm) are also included, catering to users who work with smaller scales.
+-Imperial System:
+  - The calculator provides conversions to and from imperial units such as inches, feet (Foot), yards, and miles.
+> Screenshot for the Length Conversion Mode
+
+![Length](https://github.com/user-attachments/assets/995ff90b-9b60-411f-bf35-e8ca5dc5abd0)
+
+
 ## Temperature Conversion Mode:
 
 - Conversion Between Units:
   - Facilitates the conversion of temperature units between Celsius, Fahrenheit, and Kelvin.
 - User-Friendly Interface:
   - A simple dropdown or toggle selection for choosing the input and output temperature units.
+> Screenshot for the Temperature Conversion Mode
+
+![Temp](https://github.com/user-attachments/assets/1811747c-7067-4efb-aac5-a210cca591c0)
 
 
 
