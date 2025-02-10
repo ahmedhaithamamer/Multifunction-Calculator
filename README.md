@@ -62,4 +62,4 @@ This project is a Windows Forms application developed in C++ using Visual Studio
 > ![Temperature Conversion Mode](https://github.com/user-attachments/assets/1811747c-7067-4efb-aac5-a210cca591c0)
 
 Copyright © 2025 Ahmed Haitham Amer
-Licensed under the MIT
+
