@@ -1,4 +1,4 @@
-# 🎛️ Multifunction Calculator
+# 🧮 Multifunction Calculator
 
 A versatile **Windows Forms** application developed in **C++** using **Visual Studio** and the **WinForms** library (.NET Framework).  
 A clean, user-friendly tool offering multiple modes for mathematical operations and unit conversions.
